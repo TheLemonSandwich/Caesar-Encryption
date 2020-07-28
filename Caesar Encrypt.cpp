@@ -1,3 +1,5 @@
+// This is just a glance of how caeser encryption works. This is just the basic. You can modify it a bit and make your own encryption code.
+
 #include <iostream>
 #include <string>
 
